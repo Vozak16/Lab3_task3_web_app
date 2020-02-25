@@ -1,4 +1,4 @@
 sll
-geopy
-folium
-certifi
+geopy 1.21.0
+folium 0.10.1
+certifi 2019.11.28
